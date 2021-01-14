@@ -104,4 +104,17 @@ header {
     .logo-right{
         display:none;
     }
+    .my-bg{
+        padding-bottom: 50px;
+    }
+    .heading-main{
+        padding-top:50px;
+    }
+    .heading-main {
+        padding: 20px 0;
+    }
+
+    .pad{
+        padding: 0;
+    }
 }
