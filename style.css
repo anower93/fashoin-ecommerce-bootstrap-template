@@ -1,0 +1,107 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/*
+font-family: 'Bebas Neue', cursive;
+*/
+
+.my-bg, .fashon-menu{
+    background-color: #FFF9F4 !important;
+    color:#3C3C3C;
+}
+
+.logo-area .logo{
+    width:300px;
+    height:45px;
+}
+
+.front-banner img {
+    height: 350px;
+}
+
+header {
+    min-height:550px;
+}
+.heading-main{
+    height: 80px;
+    font-family:'Bebas Neue';
+    font-weight: 700;
+    letter-spacing: 2px;
+
+}
+
+.myFont{
+    font-size: 48px;
+    font-family:'Bebas Neue';
+    font-weight: 500;
+}
+
+
+.heading{
+    color:#FA804C
+}
+.button-color img{
+    height: 20px;
+    padding-right: 5px;
+}
+.button-color{
+    background-color:#3D4FF3;
+}
+
+.product-image{
+    background-color: #F1F1F1;
+    border-radius: 1em;
+   
+}
+
+.product-box{
+    border:0;
+    
+
+}
+
+.product-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+
+}
+.product-footer{
+    border:0;
+    background-color: #FFF;
+}
+
+.product-price{
+    color:#FA804C;
+    font-weight: 900;
+}
+
+.product-image-inner{
+    width: 200px;
+    height: auto;
+    padding-top: 50px;
+}
+
+.cart-image{
+    width:90%;
+    margin-left: 10%;
+}
+
+.left-icon {
+    width: 80px;
+    height: auto;
+}
+
+.help-text{
+    padding-left:20px;
+   
+}
+
+.pro-height {
+    height:40px;
+}
+
+@media(max-width:768px){
+    .logo-right{
+        display:none;
+    }
+}
